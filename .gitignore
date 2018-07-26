@@ -1,0 +1,4 @@
+# Ignore all the contents of this folder
+lib/python3.6/site-packages/rest_framework/ 
+
+# Ignores all the files from the rest framework decreasing repository size
